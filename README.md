@@ -8,18 +8,26 @@ Business Problem
 
 The Micosoft new movie studio wants to understand what types of films to create. This project aims at analyzing how different types of films are performing at the box office. This will allow Microsoft to see the most successful films in terms of their ratings and financial performance.
 
-Data Understanding
+**Data Understanding**
 
 Three datasets from Box Office Mojo are used in this analysis: bom.movies_gross.csv.gz, imdb.title.basics.csv.gz, imdb.title.ratings.csv.gz
-Conclusion
+
+**Findings**
 
 This analysis established three important findings:
 
 Genres with high income potential. Science Fiction, adventure, and animationa films generate the most income at the box office.
 
+![image](https://github.com/Atomer969/Phase-1-Project/assets/81686504/56317a00-00a6-4a02-9824-e3672458eb55)
+
 Short films are best-received. Microsoft could persue the production of short films as they have the highest averaging rating. This shows that the audience appreciates them the most.
 
+![image](https://github.com/Atomer969/Phase-1-Project/assets/81686504/df5620dc-36ee-493d-983f-427356f62f68)
+
+
 Most watched type of films. Romance, documentary and drama films are the most popular films. The Microsoft studio can focus on producing movies in these genres to build a large viewer base.
+
+![image](https://github.com/Atomer969/Phase-1-Project/assets/81686504/e13cde4c-bc64-4393-9699-39699bc54339)
 
 Recommendations
 
